@@ -3,7 +3,8 @@ function Mostrar()
 //tomo la hora 
 var laHora = document.getElementById('hora').value;
 
-//alert (laHora);
+laHora ("hora = 7 && hora = 8 && hora = 9");
+alert ("es de mañana");
 	
 	
 
